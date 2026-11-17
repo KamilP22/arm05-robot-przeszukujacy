@@ -1,0 +1,10 @@
+int32 cubes_to_find
+float32 timeout_sec
+---
+arm05_interfaces/CubeDetection[] cubes
+bool success
+---
+int32 cubes_found
+int32[] found_ids
+int32 viewpoints_done
+int32 viewpoints_total

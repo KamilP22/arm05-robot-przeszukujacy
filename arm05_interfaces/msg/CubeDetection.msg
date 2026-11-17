@@ -1,0 +1,3 @@
+int32 id
+geometry_msgs/Point position
+int32 num_observations
